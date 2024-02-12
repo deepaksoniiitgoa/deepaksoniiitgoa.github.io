@@ -3,6 +3,7 @@
 ## **About me**
 I am **Deepak Soni.**
  I am studying in IIT GOA in Mathematics and Computing deapartment. I am from Jaisalmer (historic city with many tourist place, city near to pakistan border), Rajasthan.
+![tech.jpeg](1fb215eb-cac8-4af2-8880-036ed795f5ee.jpg)
 
 ## **Education**
 |Academic year       |  Institute
