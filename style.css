@@ -1,0 +1,16 @@
+ table,td,th {
+    border: 2px solid black;
+    border-collapse: collapse;
+} 
+body{
+    background-color: aqua;
+}
+.education{
+    background-color: rgb(196, 170, 170);
+}
+.table1{
+    background-color: rgb(218, 218, 230);
+}
+.table2{
+    background-color: chartreuse;
+}
